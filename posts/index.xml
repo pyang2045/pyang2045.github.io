@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blowfish</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Blowfish</description>
+    <title>Posts on Sheepy</title>
+    <link>https://pyang2045.github.io/posts/</link>
+    <description>Recent content in Posts on Sheepy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 12 Jun 2024 15:54:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jun 2024 16:35:21 +0800</lastBuildDate><atom:link href="https://pyang2045.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply Game Patch on Streamdeck</title>
+      <link>https://pyang2045.github.io/posts/apply-game-patch-on-streamdeck/</link>
+      <pubDate>Wed, 12 Jun 2024 16:35:21 +0800</pubDate>
+      
+      <guid>https://pyang2045.github.io/posts/apply-game-patch-on-streamdeck/</guid>
+      <description>It is quite painful to apply a game patch on Streamdeck.</description>
+      
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://pyang2045.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 12 Jun 2024 15:54:14 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://pyang2045.github.io/posts/my-first-post/</guid>
       <description>Introduction # This is bold text, and this is emphasized text.</description>
       
     </item>
